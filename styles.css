@@ -9,7 +9,7 @@
 	}
 .holder{
 	display:flex;
-	display:flex-wrap;
+	 flex-wrap: nowrap;
 	justify-content:space-between;
 }
 
